@@ -1,0 +1,13 @@
+
+{
+    "users": [
+        {"id":"23", "firstName": "Abhishek", "age": 34, "companyID":"1" },
+        {"id":"21", "firstName": "Rohit", "age": 25 , "companyID":"1" },
+        {"id":"29", "firstName": "Aman", "age": 21 , "companyID":"2" },
+        {"id":"32", "firstName": "Divyajeet", "age": 29 , "companyID":"2" }
+    ],
+    "companies": [
+        {"id": "1", "name": "Apple","description": "mac book"},
+        {"id": "2", "name": "Samsung","description": "tablet"}
+    ]
+}
